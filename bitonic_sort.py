@@ -28,6 +28,7 @@ def bitonic_sort(arr, reverse=False):
         return left + right
     
     #end of function(compare and bitionic_merge) definition
+    #make comment everywere
     n = len(arr)
     if n <= 1:
         return arr
