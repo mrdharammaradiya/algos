@@ -1,3 +1,5 @@
+
+#please provide comments
 def quick_sort(arr, simulation=False):
     """ Quick sort
         Complexity: best O(n log(n)) avg O(n log(n)), worst O(N^2)
