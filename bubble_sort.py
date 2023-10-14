@@ -5,7 +5,7 @@ https://en.wikipedia.org/wiki/Bubble_sort
 Worst-case performance: O(N^2)
 
 If you call bubble_sort(arr,True), you can see the process of the sort
-Default is simulation = False
+Default is simulation = true
 
 """
 
